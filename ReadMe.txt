@@ -1,0 +1,4 @@
+DESKRIPSI 
+-Pada project uas ini saya merancang Kalkulator Sederhana (A Simple Calculator) yang dirancang untuk melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Kalkulator ini memiliki tampilan yang minimalis dan fungsional, dengan tombol-tombol yang mudah dioperasikan. Meskipun sederhana, kalkulator ini dapat digunakan untuk melakukan perhitungan matematika dasar dengan cepat dan akurat.
+-Kalkulator ini memiliki tampilan yang bersih dan minimalis, dengan angka yang jelas terlihat dan tombol-tombol yang mudah diakses. Tampilan yang sederhana akan memudahkan pengguna dalam melakukan perhitungan tanpa kebingungan.
+-Kalkulator ini memiliki fungsi dasar matematika seperti penjumlahan, pengurangan, perkalian, dan pembagian.
